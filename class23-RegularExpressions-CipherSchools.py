@@ -17,7 +17,7 @@
 #SELECT * FROM CUSTOMER
 #WHERE city regexp "[a-z]" #FIND WORD WITH a to z
 
-#SQL COMMANDS
+#SQL COMMANDS Regular Expresion has been Taught
 
 
 
